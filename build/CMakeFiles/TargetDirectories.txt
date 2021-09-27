@@ -1,0 +1,3 @@
+/home/rishil/Desktop/Udacity_C++/2-OOP/System_Monitor/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
+/home/rishil/Desktop/Udacity_C++/2-OOP/System_Monitor/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
+/home/rishil/Desktop/Udacity_C++/2-OOP/System_Monitor/CppND-System-Monitor/build/CMakeFiles/monitor.dir
